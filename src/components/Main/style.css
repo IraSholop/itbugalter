@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:900');
+
+.backg{
+    background-image: url('../../image/fon.png');
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    height: 600px;
+  
+}
+.title{
+    margin: 0;
+    color: white;
+    font-size: 74px;
+    width: 733px;
+    font-weight: 100;
+    padding-left: 470px;
+    padding-top: 150px;
+}
+.btn{
+    border: 0;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: rgba(255, 217, 0, 0.598);
+    padding: 15px;
+    cursor: pointer;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    margin-left: 800px;
+    margin-top: 10px;
+}
+.list{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 350px;
+    margin-top: 180px;
+}
+.item{
+    list-style: none;
+    color: white;
+    font-size: 20px;
+    margin-right: 30px;
+    font-weight: 800;
+    cursor: pointer;
+}
+.sect{
+    background-image: url('../../image/debet.png');
+    width: 463px;
+    height: 313px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.debet{
+  font-size: 70px;
+  font-family: 'Playfair Display', 'Georgia', serif;
+  font-size: 120px;
+  font-weight: 900;
+  margin: 0;
+  
+}
+.text{
+    font-size: 50px;
+    font-weight: 300;
+    width: 700px;
+}
+.hero{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-end;
+}
+.poslygu{
+    background: url('../../image/back2.png'), url('../../image/back.png'); 
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 70px;
+    padding-bottom: 30px;
+}
+.pos-title{
+    color: white;
+    padding-top: 20px;
+}
+.box{
+    background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
+                radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
+    width: 254px;
+    height: 282px;
+    border-radius: 33px;
+    margin-right: 50px;
+}
+.posit{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.box-title{
+    text-align: center;
+    margin-top: 50px;
+}
+.bag{
+    background-color: #fdb93132;
+    border-radius: 33px;
+    padding: 30px;
+    font-size: 20px;
+    margin-top: 32px;
+}
+.box-btn{
+    border: 0;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: rgba(255, 217, 0, 0.598);
+    padding: 15px 25px;
+    cursor: pointer;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.decision{
+ margin-bottom: 100px;
+}
+.decision-title{
+ text-align: center;
+ margin-top: 50px;
+ margin-bottom: 50px;
+ font-size: 40px;
+ font-weight: 300;
+}
+.decision-box{
+   background-image: url('../../image/business.png');
+   width: 356px;
+   height: 222px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.decision-box-two{
+    background-image: url('../../image/medic.png');
+    width: 379px;
+    height: 222px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .decision-box-three{
+    background-image: url('../../image/SHKOL.png');
+    width: 380px;
+    height: 222px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+.decision-text{
+  font-size: 30px;
+}
+.decision-posit{
+    display: flex;
+    justify-content: space-evenly;
+}
+.info{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 100px;
+}
+.info-box{
+
+}
+.info-title{
+    margin: 0;
+   font-size: 40px;
+   font-weight: 300;
+}
+.info-text{
+
+}
+.footer{
+    background: url('../../image/back2.png'), url('../../image/back.png'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.address{
+  padding-left: 40px;
+}
+.footer-box{
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.link{
+  text-decoration: none;
+  color: white;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.footer-title{
+  color: white;
+  padding-right: 40px;
+}
+.input{
+  border: 0;
+  border-radius: 33px;
+  padding: 10px;
+}
+.button{
+    border: 0;
+    border-radius: 30px;
+    font-size: 10px;
+    background-color: rgba(255, 217, 0, 0.598);
+    padding: 10px;
+    cursor: pointer;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    margin-left: 10px;
+}
