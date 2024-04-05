@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/itbugalter/static/css/main.7acaea2f.css",
-    "main.js": "/itbugalter/static/js/main.07d3183d.js",
+    "main.css": "/itbugalter/static/css/main.10fd2c84.css",
+    "main.js": "/itbugalter/static/js/main.e3178db7.js",
+    "static/media/back.png": "/itbugalter/static/media/back.c068ccc3704b215c02b0.png",
+    "static/media/fon.png": "/itbugalter/static/media/fon.01b70e12f03dc1cab33a.png",
+    "static/media/debet.png": "/itbugalter/static/media/debet.9c6de180a9954258d0e2.png",
+    "static/media/SHKOL.png": "/itbugalter/static/media/SHKOL.ed4f21bd8c7cebb89abc.png",
+    "static/media/business.png": "/itbugalter/static/media/business.f72f9b588aba2272757a.png",
+    "static/media/medic.png": "/itbugalter/static/media/medic.a2f0e1e1bd826e7b193a.png",
+    "static/media/setting.svg": "/itbugalter/static/media/setting.c43658816cd14d5749735df17cbfd8bc.svg",
+    "static/media/tel.svg": "/itbugalter/static/media/tel.63a40dad387164384e2083d7e312e78c.svg",
+    "static/media/men.svg": "/itbugalter/static/media/men.6975278eb11978455c4f9ea8230bb9a5.svg",
+    "static/media/celend.svg": "/itbugalter/static/media/celend.3363d0ba192f1a109831e18a58209c02.svg",
+    "static/media/computer.svg": "/itbugalter/static/media/computer.e4095e3e185749d6ae31d8441c2d4ed0.svg",
     "index.html": "/itbugalter/index.html",
-    "main.7acaea2f.css.map": "/itbugalter/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/itbugalter/static/js/main.07d3183d.js.map"
+    "static/media/mail.svg": "/itbugalter/static/media/mail.d899d4f89aa163c349c88e70216f86ec.svg",
+    "main.10fd2c84.css.map": "/itbugalter/static/css/main.10fd2c84.css.map",
+    "main.e3178db7.js.map": "/itbugalter/static/js/main.e3178db7.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.10fd2c84.css",
+    "static/js/main.e3178db7.js"
   ]
 }
